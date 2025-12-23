@@ -12,7 +12,7 @@
 | :--- | :--- | :--- |
 | **Vol 1** | 基本文法、ループ、クラス、モジュール化 | [問題を見る](./questions/vol1/README.md) |
 | **Vol 2** | ES6+ モダン文法、配列メソッド、モダン演算子 | [問題を見る](./questions/vol2/README.md) |
-| **Vol 3** | (Next Volume) | 準備中 |
+| **Vol 3** | 基本文法（if, for, while, 配列, 関数） | [問題を見る](./questions/vol3/README.md) |
 
 ---
 
@@ -43,7 +43,8 @@ node questions/vol2/q01_addArrow.js
 .
 ├── questions
 │   ├── vol1      # 基礎・クラス・モジュール
-│   └── vol2      # モダン文法 (ES6+)
+│   ├── vol2      # モダン文法 (ES6+)
+│   └── vol3      # 基本文法 (if, for, while, 配列, 関数)
 ├── package.json
 └── README.md     # このファイル
 ```
