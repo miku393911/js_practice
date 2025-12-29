@@ -14,6 +14,7 @@
 | **Vol 2** | ES6+ モダン文法、配列メソッド、モダン演算子 | [問題を見る](./questions/vol2/README.md) |
 | **Vol 3** | 基本文法（if, for, while, 配列, 関数） | [問題を見る](./questions/vol3/README.md) |
 | **Vol 4** | 基本文法復習（メソッド禁止縛り） | [問題を見る](./questions/vol4/README.md) |
+| **Vol 5** | 基本文法復習（数学知識不要・具体例重視） | [問題を見る](./questions/vol5/README.md) |
 
 ---
 
@@ -46,7 +47,8 @@ node questions/vol2/q01_addArrow.js
 │   ├── vol1      # 基礎・クラス・モジュール
 │   ├── vol2      # モダン文法 (ES6+)
 │   ├── vol3      # 基本文法 (if, for, while, 配列, 関数)
-│   └── vol4      # 基本文法復習（メソッド禁止縛り）
+│   ├── vol4      # 基本文法復習（メソッド禁止縛り）
+│   └── vol5      # 基本文法復習（数学知識不要・具体例重視）
 ├── package.json
 └── README.md     # このファイル
 ```
