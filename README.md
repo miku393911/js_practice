@@ -54,5 +54,3 @@ node questions/vol2/q01_addArrow.js
 ```
 
 ---
-
-Happy Coding! 🚀
